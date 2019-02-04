@@ -1,4 +1,4 @@
-#A simple Pomodor Timer. 
+# A simple Pomodor Timer. 
 
 This is a simple Pomodoro Timer. Thats it! 
 
